@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thestary7.github.io</id>
     <title>风沙吹奏的博客</title>
-    <updated>2022-05-06T09:18:01.765Z</updated>
+    <updated>2022-05-06T09:26:21.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://thestary7.github.io"/>
     <link rel="self" href="https://thestary7.github.io/atom.xml"/>
@@ -10,30 +10,6 @@
     <logo>https://thestary7.github.io/images/avatar.png</logo>
     <icon>https://thestary7.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 风沙吹奏的博客</rights>
-    <entry>
-        <title type="html"><![CDATA[CobaltStrike 4.4 反编译及二次开发]]></title>
-        <id>https://thestary7.github.io/post/cobaltstrike-44-fan-bian-yi-ji-er-ci-kai-fa/</id>
-        <link href="https://thestary7.github.io/post/cobaltstrike-44-fan-bian-yi-ji-er-ci-kai-fa/">
-        </link>
-        <updated>2022-05-06T08:47:38.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="环境说明">环境说明</h1>
-<p>macOS Monterey 版本 12.2.1<br>
-CobaltStrike 4.4</p>
-<h1 id="反编译cobaltstrike">反编译CobaltStrike</h1>
-<h2 id="失败通过java-decompilerjar进行反编译">[失败]通过java-decompiler.jar进行反编译</h2>
-<p>jdk1.8报错如下：<br>
-<img src="https://thestary7.github.io/post-images/1651827965803.png" alt="" loading="lazy"></p>
-<p>jdk17报错如下：<br>
-<img src="https://thestary7.github.io/post-images/1651828277443.png" alt="" loading="lazy"></p>
-<h2 id="失败jd-gui保存所有源码">[失败]JD-GUI保存所有源码</h2>
-<figure data-type="image" tabindex="1"><img src="https://thestary7.github.io/post-images/1651828122965.png" alt="" loading="lazy"></figure>
-<h2 id="成功luyten">[成功]Luyten</h2>
-<p>https://github.com/deathmarine/Luyten<br>
-和JD-GUi操作是一样的，但却能成功保存源码。</p>
-<h1 id="参考文章">参考文章</h1>
-<p>https://ucasers.cn/%E5%AF%B9cobaltstrike4.4%E7%9A%84%E7%AE%80%E5%8D%95%E9%AD%94%E6%94%B9/</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://thestary7.github.io/post/hello-gridea/</id>

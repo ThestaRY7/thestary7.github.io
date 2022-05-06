@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thestary7.github.io</id>
     <title>风沙吹奏的博客</title>
-    <updated>2022-05-06T08:57:16.866Z</updated>
+    <updated>2022-05-06T09:09:25.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://thestary7.github.io"/>
     <link rel="self" href="https://thestary7.github.io/atom.xml"/>
@@ -22,7 +22,12 @@ CobaltStrike 4.4</p>
 <h1 id="反编译cobaltstrike">反编译CobaltStrike</h1>
 <h2 id="失败通过java-decompilerjar进行反编译">[失败]通过java-decompiler.jar进行反编译</h2>
 <p>jdk1.8报错如下：<br>
-<img src="https://thestary7.github.io/post-images/1651827388699.png" alt="" loading="lazy"></p>
+<img src="https://thestary7.github.io/post-images/1651827965803.png" alt="" loading="lazy"></p>
+<h2 id="失败jd-gui保存所有源码">[失败]JD-GUI保存所有源码</h2>
+<figure data-type="image" tabindex="1"><img src="https://thestary7.github.io/post-images/1651828122965.png" alt="" loading="lazy"></figure>
+<h2 id="成功luyten">[成功]Luyten</h2>
+<p>https://github.com/deathmarine/Luyten<br>
+和JD-GUi操作是一样的，但却能成功保存源码。</p>
 ]]></content>
     </entry>
     <entry>

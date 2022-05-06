@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thestary7.github.io</id>
     <title>风沙吹奏的博客</title>
-    <updated>2022-03-22T14:29:12.322Z</updated>
+    <updated>2022-05-06T08:52:04.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://thestary7.github.io"/>
     <link rel="self" href="https://thestary7.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://thestary7.github.io/images/avatar.png</logo>
     <icon>https://thestary7.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 风沙吹奏的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[CobaltStrike 4.4 反编译及二次开发]]></title>
+        <id>https://thestary7.github.io/post/cobaltstrike-44-fan-bian-yi-ji-er-ci-kai-fa/</id>
+        <link href="https://thestary7.github.io/post/cobaltstrike-44-fan-bian-yi-ji-er-ci-kai-fa/">
+        </link>
+        <updated>2022-05-06T08:47:38.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="环境说明">环境说明</h1>
+<p>macOS Monterey 版本 12.2.1<br>
+CobaltStrike 4.4</p>
+<h1 id="反编译cobaltstrike">反编译CobaltStrike</h1>
+<h2 id="失败通过java-decompilerjar进行反编译">[失败]通过java-decompiler.jar进行反编译</h2>
+<p>jdk1.8报错如下：<br>
+<img src="https://thestary7.github.io/post-images/1651827100225.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://thestary7.github.io/post/1/</id>
